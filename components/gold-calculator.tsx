@@ -575,7 +575,6 @@ export default function GoldCalculator() {
         </CardContent>
       </Card>
 
-      {/* Summary Card */}
       <Card className="bg-[#f5f1e6] border-[#D4AF37]/20">
         <CardHeader>
           <CardTitle className="text-xl font-semibold text-slate-800">{translations.summary}</CardTitle>
